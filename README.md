@@ -2,6 +2,8 @@
 A simple Spotify clone built using **HTML** and **CSS**.
 This project replicates the basic interface of Spotify using only HTML and CSS.
 
+**Live:** https://ismailfaridi.github.io/Spotify-Clone/
+
 ## Features
 - **Responsive Design:** Ensures a good user experience on both desktop and mobile.
 - **Spotify-Like UI:** Mimics the look and feel of the popular music streaming platform.
